@@ -18,25 +18,28 @@ for each county in the precinct.
 ## Summary
 A. There were "369,711" votes cast in the cogressional election
 
-B. The Candidates were:
+B. The Candidates for this Congressional Election inlcuded:
+  
   * Charles Casper Stockham
   * Diane DeGette
   * Raymon Anthony Doane
 
-C. County Results [ % of all votes, (# of votes in the county)]
+C. County Results % of all votes, (# of votes in the county):
 
    County Votes:
-       Jefferson: 10.5% (38,855)
-       Denver: 82.8% (306,055)
-       Arapahoe: 6.7% (24,801)
+     - Jefferson: 10.5% (38,855)
+     - Denver: 82.8% (306,055)
+     - Arapahoe: 6.7% (24,801)
   
-D. The Candidates results were: [ % received , (# of votes received)]
-       * Charles Casper Stockham: 23.0% (85,213)
-       * Diana DeGette: 73.8% (272,892)
-       * Raymon Anthony Doane: 3.1% (11,606)
+D. The Candidates results were: % received , (# of votes received)
+    
+    * Charles Casper Stockham: 23.0% (85,213)
+    * Diana DeGette: 73.8% (272,892)
+    * Raymon Anthony Doane: 3.1% (11,606)
 
 E. The Winner of the Election was:
-       Diana DeGette! Ms. DeGette recieved a  73.8% (272,892)
+    
+    Diana DeGette! Ms. DeGette recieved a  73.8% (272,892)
   
 ## Challenge Overview
 

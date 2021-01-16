@@ -15,7 +15,7 @@ for each county in the precinct.
 * Data Source: election_results.csv
 * Software: Python 3.7, Visual Studio Code V.
 
-## Summary
+## Election Audit Results
 A. There were "369,711" votes cast in the cogressional election
 
 B. The Candidates for this Congressional Election inlcuded:
@@ -28,7 +28,7 @@ C. County Results % of all votes, (# of votes in the county):
 
    County Votes:
      - Jefferson: 10.5% (38,855)
-     - Denver: 82.8% (306,055)
+     - Denver: 82.8% (306,055) (Largest Amount of Votes by County) 
      - Arapahoe: 6.7% (24,801)
   
 D. The Candidates results were: % received , (# of votes received)
@@ -42,9 +42,12 @@ E. The Winner of the Election was:
     Diana DeGette! Ms. DeGette recieved 73.8% of the all votes cast,
     equalling (272,892) votes
     
-    Please refer to 
+    Please refer to https://github.com/timmyclean/Election-Analysis-V.1/blob/main/analysis/election_analysis.txt for full analysis as delivered by code.
   
-## Challenge Overview
 
-## Challenge Summary
+## Election Audit Summary
+  - After performing the analysis on this Congressional Election we would like to offer our services for any or all future elections in Colorado.
+  we feel our analytic team can even provide more insight for not only the state but for future candidates. 
+  - Further insight could be to analyze the percentage of votes each candidate recieved in each county. Obvious that Denver is the key to winning so 
+  it would be interesting to see Denver broken down even more.
   

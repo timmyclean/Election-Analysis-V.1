@@ -39,7 +39,10 @@ D. The Candidates results were: % received , (# of votes received)
 
 E. The Winner of the Election was:
     
-    Diana DeGette! Ms. DeGette recieved a  73.8% (272,892)
+    Diana DeGette! Ms. DeGette recieved 73.8% of the all votes cast,
+    equalling (272,892) votes
+    
+    Please refer to 
   
 ## Challenge Overview
 
